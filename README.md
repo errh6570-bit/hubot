@@ -202,4 +202,4 @@ See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
 [Automating Inefficiencies](https://zachholman.com/2011/01/automating-inefficiencies/)
 
-[Getting Started with Hubot](https://www.youtube.com/watch?v=A7fh6RIzGrw)
+[Getting Started with Hubot](https://www.youtube.com/watch?v=A7fh6RIzGrw) errh6570@gmail.com 
