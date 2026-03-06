@@ -1,0 +1,8 @@
+name: Node.js Package
+
+on:
+  push:
+    branches: [ "principal" ]
+  pull_request:
+    branches: [ "principal" ]
+
