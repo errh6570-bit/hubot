@@ -1,0 +1,3 @@
+find .github -name "*.yml" -exec mv {} .github/workflows/ \;
+
+
